@@ -1,4 +1,5 @@
 # Built application files
+.DS_Store
 *.apk
 *.ap_
 
@@ -57,3 +58,5 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+.cxx
